@@ -1,0 +1,266 @@
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\ProjetoGamificacao\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\ProjetoGamificacao\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\ProjetoGamificacao\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoGamificacao\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoPaisFilhos02\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\ProjetoPaisFilhos02\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\ProjetoPaisFilhos02\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\ProjetoPaisFilhos02\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\ProjetoPaisFilhos03\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\ProjetoPaisFilhos03\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\ProjetoPaisFilhos03\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoPaisFilhos03\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\ProjetoPaisFilhos06\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\ProjetoPaisFilhos06\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\ProjetoPaisFilhos06\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoPaisFilhos06\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoPaisFilhos07\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\ProjetoPaisFilhos07\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\ProjetoPaisFilhos07\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\ProjetoPaisFilhos07\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\LifeQuest\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\LifeQuest\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\LifeQuest\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\LifeQuest 2\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\LifeQuest 2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\LifeQuest 2\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 2\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\LifeQuest 3\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\LifeQuest 3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\LifeQuest 3\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 3\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Facebook.Unity.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Facebook.Unity.Settings.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\LifeQuest 4\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\LifeQuest 4\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\LifeQuest 4\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 4\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 5\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Facebook.Unity.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Facebook.Unity.Settings.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\LifeQuest 5\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\LifeQuest 5\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 5\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 6\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\LifeQuest 6\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Facebook.Unity.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Facebook.Unity.Settings.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\LifeQuest 6\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\LifeQuest 6\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Facebook.Unity.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Facebook.Unity.Settings.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\LifeQuest 7\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProjects\LifeQuest 7\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\LifeQuest 7\obj\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\LifeQuest 7\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb

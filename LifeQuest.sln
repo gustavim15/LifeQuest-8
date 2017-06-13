@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{36BB93E6-BC3A-7E07-4AF0-13DCEBFCC552}") = "LifeQuest", "Assembly-CSharp-firstpass.csproj", "{8AAD8DA1-63DB-349F-871C-A2FE15012704}"
+EndProject
+Project("{36BB93E6-BC3A-7E07-4AF0-13DCEBFCC552}") = "LifeQuest", "Assembly-CSharp.csproj", "{4859CD45-A207-F18D-20DE-6D7520B93140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AAD8DA1-63DB-349F-871C-A2FE15012704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAD8DA1-63DB-349F-871C-A2FE15012704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAD8DA1-63DB-349F-871C-A2FE15012704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAD8DA1-63DB-349F-871C-A2FE15012704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4859CD45-A207-F18D-20DE-6D7520B93140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4859CD45-A207-F18D-20DE-6D7520B93140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4859CD45-A207-F18D-20DE-6D7520B93140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4859CD45-A207-F18D-20DE-6D7520B93140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

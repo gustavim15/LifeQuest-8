@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{968CFDB7-CD59-98AB-9C1A-E2CC11A5B86F}") = "ProjetoGamificacao", "Assembly-CSharp.csproj", "{0D300DD6-7B57-FC88-E546-4447B3C86DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D300DD6-7B57-FC88-E546-4447B3C86DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D300DD6-7B57-FC88-E546-4447B3C86DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D300DD6-7B57-FC88-E546-4447B3C86DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D300DD6-7B57-FC88-E546-4447B3C86DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

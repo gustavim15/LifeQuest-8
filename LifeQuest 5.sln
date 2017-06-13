@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{14C09F24-D0FF-D444-0E7B-7440F6868133}") = "LifeQuest 5", "Assembly-CSharp.csproj", "{40A83350-189E-59BF-3D1E-4CF0C4EC71F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A83350-189E-59BF-3D1E-4CF0C4EC71F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A83350-189E-59BF-3D1E-4CF0C4EC71F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A83350-189E-59BF-3D1E-4CF0C4EC71F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A83350-189E-59BF-3D1E-4CF0C4EC71F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
